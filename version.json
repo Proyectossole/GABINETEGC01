@@ -1,5 +1,5 @@
 {
-   "type": "GABINETEGC01",
-   "version": "1.4",
-   "url": "https://raw.githubusercontent.com/Proyectossole/GABINETEGC01/main/fw.bin"
+  "type": "GV2.2",
+  "version": "1.1",
+  "bin": "https://raw.githubusercontent.com/Proyectossole/Gabinete-Vibrancy-Digital/main/firmware/Gabinete-Vibrancy-V2.2.bin"
 }
